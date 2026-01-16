@@ -1,0 +1,58 @@
+[2026-01-16 04:56:44] Starting system readiness check
+--------------------------------------------------
+[2026-01-16 04:56:44] Collecting OS information
+[2026-01-16 04:56:44] OS Name    : Ubuntu
+[2026-01-16 04:56:44] OS Version : 24.04.3 LTS (Noble Numbat)
+--------------------------------------------------
+[2026-01-16 04:56:44] System uptime:
+ 04:56:44 up 3 min,  1 user,  load average: 0.98, 0.96, 0.43
+--------------------------------------------------
+[2026-01-16 04:56:44] Checking disk usage
+[2026-01-16 04:56:44] Root (/) usage: 35%
+[2026-01-16 04:56:44] Disk usage within safe limits
+--------------------------------------------------
+[2026-01-16 04:56:44] Checking memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           4.9Gi       2.0Gi       1.4Gi       147Mi       1.8Gi       2.9Gi
+Swap:             0B          0B          0B
+--------------------------------------------------
+[2026-01-16 04:56:44] Checking network connectivity
+[2026-01-16 04:56:44] Network reachable
+--------------------------------------------------
+[2026-01-16 04:56:44] Checking required tools
+[2026-01-16 04:56:44] Tool 'curl' is installed
+[2026-01-16 04:56:44] Tool 'git' is installed
+[2026-01-16 04:56:44] Tool 'htop' is installed
+--------------------------------------------------
+[2026-01-16 04:56:44] System readiness check completed
+[2026-01-16 04:56:44] Log file saved at: /home/shank/Desktop/project/system_check.log
+--------------------------------------------------
+[2026-01-16 04:59:19] Starting system readiness check
+--------------------------------------------------
+[2026-01-16 04:59:19] Collecting OS information
+[2026-01-16 04:59:19] OS Name    : Ubuntu
+[2026-01-16 04:59:19] OS Version : 24.04.3 LTS (Noble Numbat)
+--------------------------------------------------
+[2026-01-16 04:59:19] System uptime:
+ 04:59:19 up 6 min,  1 user,  load average: 0.89, 0.85, 0.46
+--------------------------------------------------
+[2026-01-16 04:59:19] Checking disk usage
+[2026-01-16 04:59:19] Root (/) usage: 37%
+[2026-01-16 04:59:19] Disk usage within safe limits
+--------------------------------------------------
+[2026-01-16 04:59:19] Checking memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           4.9Gi       2.1Gi       626Mi       161Mi       2.6Gi       2.8Gi
+Swap:             0B          0B          0B
+--------------------------------------------------
+[2026-01-16 04:59:19] Checking network connectivity
+[2026-01-16 04:59:19] Network reachable
+--------------------------------------------------
+[2026-01-16 04:59:19] Checking required tools
+[2026-01-16 04:59:19] Tool 'curl' is installed
+[2026-01-16 04:59:19] Tool 'git' is installed
+[2026-01-16 04:59:19] Tool 'htop' is installed
+--------------------------------------------------
+[2026-01-16 04:59:19] System readiness check completed
+[2026-01-16 04:59:19] Log file saved at: /home/shank/Desktop/project/system_check.log
+--------------------------------------------------
