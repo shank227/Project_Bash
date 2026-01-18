@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 MAIN_FILE="real_file.txt"
 BACKUP_FILE="backup_file.txt"
