@@ -6,7 +6,7 @@ MAX_LINES=100
 
 touch "$MAIN_FILE" "$BACKUP_FILE"
 
-echo "Paste your lines here (Ctrl+D to finish):"
+echo "Please input your lines:"
 cat >> "$MAIN_FILE"
 
 while [ "$(wc -l < "$MAIN_FILE")" -gt "$MAX_LINES" ]; do
